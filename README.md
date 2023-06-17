@@ -3,4 +3,4 @@
 
 ### Scripts
 - SpoofDaArp: Macro ARP spoofing scripts for linux machines
-- 
+- GetDaGateway: Quickly obtain current gateway address
