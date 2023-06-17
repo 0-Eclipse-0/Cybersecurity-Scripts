@@ -4,3 +4,5 @@
 ### Scripts
 - SpoofDaArp: Macro ARP spoofing scripts for linux machines
 - GetDaGateway: Quickly obtain current gateway address
+- ChexMix: Simple proxy checker
+- ChangeDaMac: MAC Address Spoofer
